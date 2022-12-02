@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Switch
-        android:id="@+id/switch1"
+        android:id="@+id/sw1"
         android:layout_width="102dp"
         android:layout_height="40dp"
         android:text="1"
@@ -20,7 +20,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch2"
+        android:id="@+id/sw2"
         android:layout_width="99dp"
         android:layout_height="40dp"
         android:text="2"
@@ -33,7 +33,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch3"
+        android:id="@+id/sw3"
         android:layout_width="96dp"
         android:layout_height="40dp"
         android:text="3"
@@ -46,7 +46,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch4"
+        android:id="@+id/sw4"
         android:layout_width="92dp"
         android:layout_height="40dp"
         android:text="4"
@@ -58,7 +58,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch5"
+        android:id="@+id/sw5"
         android:layout_width="91dp"
         android:layout_height="37dp"
         android:text="5"
@@ -69,7 +69,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch6"
+        android:id="@+id/sw6"
         android:layout_width="91dp"
         android:layout_height="41dp"
         android:text="6"
@@ -81,7 +81,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch7"
+        android:id="@+id/sw7"
         android:layout_width="98dp"
         android:layout_height="34dp"
         android:text="7"
@@ -94,7 +94,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch8"
+        android:id="@+id/sw8"
         android:layout_width="94dp"
         android:layout_height="40dp"
         android:text="8"
@@ -107,7 +107,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Switch
-        android:id="@+id/switch9"
+        android:id="@+id/sw9"
         android:layout_width="94dp"
         android:layout_height="33dp"
         android:text="9"
